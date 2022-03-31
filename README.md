@@ -28,3 +28,13 @@ O PAG recomenda que adultos se engajem em pelo menos 150 minutos de atividades a
 
 ## Metodologia
 
+O projeto será dividido em três etapas principais:
+
+1. Leitura e pré-processamento dos dados.<br>
+Os datasets são compostos por:
+- Dados de PHQ-9 e demográficos de adultos pesquisados no NHANES 2005-2006
+- Dados de HEI de PAG de crianças e adultos pesquisados no NHANES 2005-2006
+
+2. Análise exploratória univariada para compreender a distribuição dos dados na amostra da pesquisa
+
+3. Análise exploratória bivariada aliada a teste de hipótese
