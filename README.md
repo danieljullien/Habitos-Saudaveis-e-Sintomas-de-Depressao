@@ -8,7 +8,7 @@ Neste projeto, iremos:
 1. Avaliar qual o perfil de indivíduos adultos com sintomas depressivos nos EUA
 2. Investigar se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população.
 
-Utilizaremos dados do National Health and Nutrition Examination Survey (NHANES) [[1](#1)] de 2006, uma pesquisa conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais. Destes dados, utilizaremos as bases de dados demográficas e de PHQ-9, HEI e PAG.
+Utilizaremos dados do National Health and Nutrition Examination Survey (NHANES) de 2006, uma pesquisa conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais. Destes dados, utilizaremos as bases de dados demográficas e de PHQ-9, HEI e PAG.
 
 ## Patient Health Questionnaire-9 (PHQ-9)
 
