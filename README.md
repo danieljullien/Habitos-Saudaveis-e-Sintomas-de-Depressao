@@ -37,4 +37,8 @@ Os datasets são compostos por:
 
 2. Análise exploratória univariada para compreender a distribuição dos dados na amostra da pesquisa
 
-3. Análise exploratória bivariada aliada a teste de hipótese
+3. Análise exploratória bivariada aliada a testes de hipóteses para responder identificar:
+- O perfil de indivíduos adultos com sintomas depressivos nos EUA
+- Possíveis associações entre hábitos saudáveis de alimentação e atividade física e índices de depressão
+
+A pesquisa examina uma amostra selecionada à partir de amostragem complexa a fim de selecionar uma amostra representativa da população civil não institucionalizada dos EUA. Sendo assim, as análises utilizando este estudo devem ser realizadas utilizando técnicas e ferramentas que levem em conta a amostragem complexa. Neste desafio, no entanto, iremos assumir que os dados foram obtidos usando uma amostra aleatória da população de interesse e utilizaremos técnicas e ferramentas de análise usuais para amostras aleatórias para fins didáticos.
