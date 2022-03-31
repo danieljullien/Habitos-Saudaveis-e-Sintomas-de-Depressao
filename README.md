@@ -37,7 +37,7 @@ O projeto será dividido em três etapas principais:
 
 2. Análise exploratória univariada para compreender a distribuição dos dados na amostra da pesquisa
 
-3. Análise exploratória bivariada aliada a testes de hipóteses para responder identificar:
+3. Análise exploratória bivariada aliada a testes de hipóteses para identificar:
   - O perfil de indivíduos adultos com sintomas depressivos nos EUA
   - Possíveis associações entre hábitos saudáveis de alimentação e atividade física e índices de depressão
 
