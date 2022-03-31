@@ -1,0 +1,18 @@
+Variável,Descrição,Valores
+SEQN,Identificador único do respondente,-
+PAG_MINW,Tempo total semanal de atividade aeróbica moderada-vigorosa em minutos segundo o Physical Activity Guideline (PAG),-
+ADHERENCE,Grupo de aderência ao Physical Activity Guideline (PAG),"1 = Baixo (< 150 min/semana), 2 = Adequado (150-300 min/semana), 3 = Acima (> 300min/semana)"
+HEI2015C1_TOTALVEG,Healthy Eating Index - Componente 1 - Total de Vegetais,0-5
+HEI2015C2_GREEN_AND_BEAN,Healthy Eating Index - Componente 2 - Verduras verdeescuras e leguminosas,0-5
+HEI2015C3_TOTALFRUIT,Healthy Eating Index - Componente 3 - Frutas totais,0-5
+HEI2015C4_WHOLEFRUIT,Healthy Eating Index - Componente 4 - Frutas in natura,0-5
+HEI2015C5_WHOLEGRAIN,Healthy Eating Index - Componente 5 - Grãos integrais,0-10
+HEI2015C6_TOTALDAIRY,Healthy Eating Index - Componente 6 - Laticínios,0-10
+HEI2015C7_TOTPROT,Healthy Eating Index - Componente 7 - Proteínas,0-5
+HEI2015C8_SEAPLANT_PROT,Healthy Eating Index - Componente 8 - Plantas marinhas e proteínas vegetais,0-5
+HEI2015C9_FATTYACID,Healthy Eating Index - Componente 9 - Ácido-graxo,0-10
+HEI2015C10_SODIUM,Healthy Eating Index - Componente 10 - Sódio,0-10
+HEI2015C11_REFINEDGRAIN,Healthy Eating Index - Componente 11 - Grãos refinados,0-10
+HEI2015C12_SFAT,Healthy Eating Index - Componente 12 - Gordura saturada,0-10
+HEI2015C13_ADDSUG,Healthy Eating Index - Componente 13 - Açúcares adicionados,0-10
+HEI2015_TOTAL_SCORE,Healthy Eating Index - Escore total,0-100

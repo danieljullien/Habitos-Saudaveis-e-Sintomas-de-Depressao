@@ -1,0 +1,7 @@
+Variável,Descrição,Valores
+SEQN,Identificador único do respondente,-
+RIAGENDR,Gênero,"1 = Masculino, 2 = Feminino"
+RIDAGEYR,Idade em anos,-
+RIDRETH1,Raça/Etnia,"1 = Mexicano americano, 2 = Outro hispânico, 3 = Branco não-hispãnico, 4 = Negro não-hispânico, 5 = Outra raça - Incluindo muti-racial"
+DMDEDUC,Escolaridade,"1 = Menor que 9o ano, 2 = 9-12o ano, 3 = Ensino médio, 4 = Ensino superior incompleto, 5 = Superior, completo ou maior, 7 = Se recusou a responder, 9 = Não sabe"
+INDFMINC,Renda anual familiar (US$),"1 = 0-4999, 2 - 5000-9999, 3 = 10000-14999, 4 = 15000-19999, 5 = 20000-24999, 6 = 25000-34999, 7 = 35000-44999, 8 = 45000-54999, 9 = 55000-, 64999, 10 = 65000-74999, 11 = Maior ou igual a 75000, 12 = Maior que 20000, 13 = Menor que 20000, 77 = Se recusou a responder, 99 = Não sabe"

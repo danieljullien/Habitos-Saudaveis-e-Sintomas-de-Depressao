@@ -1,0 +1,11 @@
+Variável,Descrição,Valores
+SEQN,Identificador único do respondente,-
+DPQ010,Pouco interesse ou pouco prazer em fazer as coisas,"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ020,"Se sentiu para baixo, deprimido(a) ou sem perspectiva","0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ030,Dificuldade para pegar no sono ou permanecer dormindo ou dormiu mais do que o costume,"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ040,Se sentiu cansado(a) ou com pouca energia,"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ050,Falta de apetite ou comeu demais,"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ060,Se sentiu mal consigo mesmo(a) ou achou que é um fracasso ou que decepcionou sua família ou a você mesmo(a),"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ070,Dificuldade para se concentrar nas coisas (como ler o jornal ou ver televisão),"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ080,"Teve lentidão para se movimentar ou falar (a ponto de outras pessoas perceberem), ou ao contrário, esteve tão agitado(a) que você ficava andando de um lado para o outro mais do que costume","0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
+DPQ090,Pensou em se ferir de alguma maneira ou que seria melhor estar morto(a),"0 = Nenhuma vez, 1 = Menos de 1 semana, 2 = 1 semana ou mais, 3 = Quase todos os dias, 7 = Se recusou a responder, 9 = Não sabe"
