@@ -4,9 +4,9 @@ O transtorno depressivo representa um grande problema de saúde pública e é ap
 
 Para garantir um estilo de vida saudável, a OMS recomenda a prática regular de exercícios, bem como a adoção de uma dieta saudável rica em alimentos in natura e com reduzido teor de gordura saturada, sal e açucares refinados.
 
-Neste projeto, iremos avaliar:
-1) Qual o perfil de indivíduos adultos com sintomas depressivos nos EUA
-2) Se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população
+Neste projeto, iremos:
+1. Avaliar qual o perfil de indivíduos adultos com sintomas depressivos nos EUA
+2. Investigar se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população.
 
 Utilizaremos dados do National Health and Nutrition Examination Survey (NHANES) [[1](#1)] de 2006, uma pesquisa conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais. Destes dados, utilizaremos as bases de dados demográficas e de PHQ-9, HEI e PAG.
 
