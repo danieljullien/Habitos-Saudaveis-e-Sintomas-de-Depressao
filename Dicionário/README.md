@@ -1,0 +1,1 @@
+## Dicionário das variáveis utilizadas
