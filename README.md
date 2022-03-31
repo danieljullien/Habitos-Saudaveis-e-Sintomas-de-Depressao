@@ -8,17 +8,17 @@ Neste projeto, iremos avaliar qual o perfil de indivíduos adultos com sintomas 
 
 Utilizaremos dados do National Health and Nutrition Examination Survey (NHANES) [[1](#1)] de 2006, uma pesquisa conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais. Destes dados, utilizaremos as bases de dados demográficas e de PHQ-9, HEI e PAG.
 
-#### Patient Health Questionnaire-9 (PHQ-9)
+## Patient Health Questionnaire-9 (PHQ-9)
 
 O Patient Health Questionnaire-9 (PHQ-9) é um instrumento utilizado para avaliar o grau de depressão em pacientes, que consiste em um questionário de 9 itens em que os respondentes indicam a frequência de sintomas de depressão nas duas últimas semanas, através dos dizeres "Nas últimas 2 semanas, com que frequência você ficou incomodado por algum dos problemas a seguir? (0 = nenhuma vez, 1 = menos de uma semana, 2 = uma semana ou mais e 3 = quase todos os dias)".
 
 O escore total é calculado à partir da soma dos itens 1-9 e varia de 0 a 27, em que maiores valores do escore indicam maiores frequências de sintomas de depressão. Aqueles com pontuação maior ou igual a 5 para o escore total de PHQ-9 são considerados como tendo sintomas leves (5-9), moderados (10-14), moderadamente severos (15-19) e severos de depressão (>= 20). 
 
-#### Healthy Eating Index (HEI)
+## Healthy Eating Index (HEI)
 
 O Healthy Eating Index (HEI) é um índice de qualidade da dieta composto por 13 componentes baseado nas orientações dietéticas do governo federal americano (Dietary Guidelines for Americans). O HEI utiliza diferentes grupos alimentares para o cálculo do escore, variando de 0 a 100, em que maiores valores do escore refletem dietas mais próximas das orientações alimentares em vigor.
 
-#### Physical Activity Guidelines (PAG)
+## Physical Activity Guidelines (PAG)
 
 O Physical Activity Guidelines for Americans (PAG) é emitido pelo Departamento de Saúde e Serviços Humanos (U.S. Department of Health and Human Services (HHS)) e possui recomendações de atividades físicas. Este documento é utilizado em conjunto com as orientações dietéticas para americanos (Dietary Guidelines for Americans) para promover a importância de ser fisicamente ativo e seguir uma dieta saudável.
 
