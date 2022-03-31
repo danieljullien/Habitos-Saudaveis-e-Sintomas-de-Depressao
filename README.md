@@ -26,3 +26,5 @@ O Physical Activity Guidelines for Americans (PAG) é emitido pelo Departamento 
 
 O PAG recomenda que adultos se engajem em pelo menos 150 minutos de atividades aeróbicas de intensidade moderada ou 75 minutos de atividades aeróbicas de intensidade vigorosa semanalmente. A partir dos dados coletados do NHANES, é calculado o número de minutos de atividades físicas, definido como a total minutos semanais de atividades físicas moderadas + 2*(total minutos de atividades aeróbicas vigorosas).
 
+## Metodologia
+
