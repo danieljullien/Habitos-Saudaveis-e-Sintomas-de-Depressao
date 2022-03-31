@@ -31,7 +31,7 @@ O PAG recomenda que adultos se engajem em pelo menos 150 minutos de atividades a
 O projeto será dividido em três etapas principais:
 
 1. Leitura e pré-processamento dos dados.<br>
-Os datasets são compostos por:
+  Os datasets são compostos por:
   - Dados de PHQ-9 e demográficos de adultos pesquisados no NHANES 2005-2006
   - Dados de HEI de PAG de crianças e adultos pesquisados no NHANES 2005-2006
 
@@ -41,4 +41,4 @@ Os datasets são compostos por:
   - O perfil de indivíduos adultos com sintomas depressivos nos EUA
   - Possíveis associações entre hábitos saudáveis de alimentação e atividade física e índices de depressão
 
-A pesquisa examina uma amostra selecionada à partir de amostragem complexa a fim de selecionar uma amostra representativa da população civil não institucionalizada dos EUA. Sendo assim, as análises utilizando este estudo devem ser realizadas utilizando técnicas e ferramentas que levem em conta a amostragem complexa. Neste desafio, no entanto, iremos assumir que os dados foram obtidos usando uma amostra aleatória da população de interesse e utilizaremos técnicas e ferramentas de análise usuais para amostras aleatórias para fins didáticos.
+  A pesquisa examina uma amostra selecionada à partir de amostragem complexa a fim de selecionar uma amostra representativa da população civil não institucionalizada dos EUA. Sendo assim, as análises utilizando este estudo devem ser realizadas utilizando técnicas e ferramentas que levem em conta a amostragem complexa. Neste desafio, no entanto, iremos assumir que os dados foram obtidos usando uma amostra aleatória da população de interesse e utilizaremos técnicas e ferramentas de análise usuais para amostras aleatórias para fins didáticos.
